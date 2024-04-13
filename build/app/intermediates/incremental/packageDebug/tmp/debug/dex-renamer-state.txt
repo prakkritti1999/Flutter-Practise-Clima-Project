@@ -1,0 +1,4 @@
+#Sat Apr 13 18:47:44 IST 2024
+base.0=D\:\\FlutterPractiseProjects\\NewClima\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
